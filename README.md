@@ -45,4 +45,6 @@ Serial execution total time: 27.10 seconds
 Parallel execution total time: 14.20 seconds
 
 ![image](https://github.com/user-attachments/assets/aa3317bc-fbf5-473a-bee3-ef71c9fe213d)
+![image](https://github.com/user-attachments/assets/f83df4c8-d64c-4e54-8394-7435f85c82a5)
+
 
