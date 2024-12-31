@@ -1,4 +1,4 @@
-## Legal Document Summarization and Translation
+# Legal Document Summarization and Translation
 # Project Overview
 This project aims to summarize legal documents and translate the summaries into Urdu. The solution employs Python scripts to:
 
