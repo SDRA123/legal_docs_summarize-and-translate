@@ -1,0 +1,51 @@
+**Clauses:** 
+1. Article 1: Obligation to extradite
+2. Article 2: Extraditable offences
+3. Article 3: Mandatory grounds for refusal
+
+**Overview:** 
+- Parties: Two countries
+- Purpose: Extradition treaty
+- Key facts: Crime control, prosecution, sentence
+- Answers: 
+  - What is the purpose of the treaty: Cooperation
+  - What type of offences are extraditable: Punishable
+  - What are the grounds for refusal: Political, discrimination, military
+
+**Summary:** Extradition treaty between two countries for crime control and cooperation.
+**Clauses:** 
+1. Mandatory grounds for refusal (Article 3)
+2. Optional grounds for refusal (Article 4)
+3. Channels of communication and required documents (Article 5)
+
+**Overview:** 
+Extradition request guidelines.
+
+**Key Facts and Answers:**
+- Mandatory grounds: Immunity, torture, judgement in absentia.
+- Optional grounds: Nationality, pending prosecution, death penalty.
+- Required documents: Written request, description of person sought.
+
+**Summary (50 words):** 
+Extradition request guidelines outline mandatory and optional grounds for refusal, and required documents, ensuring fair treatment and protecting human rights.
+**Clauses:** 
+1. Article 5: Extradition request requirements
+2. Article 6: Simplified extradition procedure
+3. Article 7: Certification and authentication
+
+**Overview:** Extradition process
+
+**Summary:** Extradition request requirements and procedures outlined.
+**Clauses:**
+1. Article 10: Decision on extradition request
+2. Article 11: Surrender of the person
+3. Article 12: Postponed or conditional surrender
+
+**Overview:**
+Key facts: Extradition procedures, Surrender, Property surrender
+Key answers: Treaty, Extradition, Property
+
+**Summary:**
+Extradition treaty outlines procedures for surrender and property transfer.
+Error processing page 4: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-70b-versatile` in organization `org_01jf08dj0petes0adhx4y17rgz` on tokens per minute (TPM): Limit 6000, Used 12433, Requested 918. Please try again in 1m13.514s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+Error processing page 5: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-70b-versatile` in organization `org_01jf08dj0petes0adhx4y17rgz` on tokens per minute (TPM): Limit 6000, Used 15111, Requested 746. Please try again in 1m38.579s. Visit https://console.groq.com/docs/rate-limits for more information.', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
