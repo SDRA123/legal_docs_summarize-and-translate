@@ -7,8 +7,8 @@ Summarize the extracted text.
 Translate the summary from English to Urdu.
 Additionally, the project provides two modes of execution:
 
-# Serial Execution: The scripts run one after another.
-# Parallel Execution: The scripts run concurrently to optimize execution time.
+## Serial Execution: The scripts run one after another.
+## Parallel Execution: The scripts run concurrently to optimize execution time.
 Project Features
 Summarization: Uses advanced algorithms to extract the most important points from legal documents.
 Translation: Translates the summarized content into Urdu for easier comprehension.
